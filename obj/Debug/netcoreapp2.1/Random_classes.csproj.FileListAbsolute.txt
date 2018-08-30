@@ -1,0 +1,11 @@
+C:\Users\natas\workspace\csharp\exercises\Random_classes\bin\Debug\netcoreapp2.1\Random_classes.deps.json
+C:\Users\natas\workspace\csharp\exercises\Random_classes\bin\Debug\netcoreapp2.1\Random_classes.runtimeconfig.json
+C:\Users\natas\workspace\csharp\exercises\Random_classes\bin\Debug\netcoreapp2.1\Random_classes.runtimeconfig.dev.json
+C:\Users\natas\workspace\csharp\exercises\Random_classes\bin\Debug\netcoreapp2.1\Random_classes.dll
+C:\Users\natas\workspace\csharp\exercises\Random_classes\bin\Debug\netcoreapp2.1\Random_classes.pdb
+C:\Users\natas\workspace\csharp\exercises\Random_classes\obj\Debug\netcoreapp2.1\Random_classes.csprojAssemblyReference.cache
+C:\Users\natas\workspace\csharp\exercises\Random_classes\obj\Debug\netcoreapp2.1\Random_classes.csproj.CoreCompileInputs.cache
+C:\Users\natas\workspace\csharp\exercises\Random_classes\obj\Debug\netcoreapp2.1\Random_classes.AssemblyInfoInputs.cache
+C:\Users\natas\workspace\csharp\exercises\Random_classes\obj\Debug\netcoreapp2.1\Random_classes.AssemblyInfo.cs
+C:\Users\natas\workspace\csharp\exercises\Random_classes\obj\Debug\netcoreapp2.1\Random_classes.dll
+C:\Users\natas\workspace\csharp\exercises\Random_classes\obj\Debug\netcoreapp2.1\Random_classes.pdb
